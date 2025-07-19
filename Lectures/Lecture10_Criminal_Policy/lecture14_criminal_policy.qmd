@@ -1,0 +1,192 @@
+---
+title: |
+    | GOVT2306: Texas Government
+    | Lecture 14: Crime Policy
+author: "Instructor: Tom Hanna, Spring 2025"
+date: January 2025
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.css]
+                logo: ../assets/logo.jpg
+                footer: "HCC GOVT2306, Spring 2025, Instructor: Tom Hanna>" 
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(kableExtra)
+```
+
+
+# Agenda and Announcements
+
+## Agenda
+
+- Today: Crime Policy
+
+        - Criminal Procedure
+        - Due Process
+        - Punishment and Rehabilitation
+        - Criminal Justice Reform
+
+- Remaining classes: topic discussion and short writing
+
+        - Check Canvas for current events news articles
+        - Final exam review
+        
+
+## Announcemnts
+
+-
+
+
+# Criminal procedure
+
+## Criminal procedure: types of crime
+
+- Felonies
+
+        - serious crimes
+        - punishable by prison time
+        - punishable by more than one year of incarceration
+        - prison or state jail incarceration
+        - violent crimes such as assault, murder, robbery, and sexual assault
+        - serious property crimes such as burglary, grand theft
+        
+- Misdemeanors
+
+        - minor crimes punishable by less than a year in jail 
+        - jail time served in local jails, not prison
+        - misdemeanors range from petty theft to minor traffic violations (which are class C misdemeanors in Texas)
+        
+## Elements of crime
+
+- Set by statute
+- Prosecution must allege and prove all elements of the crim
+- Many crimes require *mens rea,* literally "guilty mind" or criminal intent
+- Crimes that do not require *mens rea* are strict liability crimes
+
+
+## Due Process
+
+::: {.custom-style style="font-size: 80px;"}
+The major assumption of US and Texas criminal law is that protection of innocent citizens from false accusations and imprisonment is the most important consideration. 
+:::
+
+
+## Due Process
+
+::: {.custom-style style="font-size: 80px;"}
+Thinking about ethical considerations, specifically errors of omission or commission, which is worse - falsely imprison someone or mistakenly release a guilty person?
+:::
+
+## Due Process
+
+> It is better that ten guilty persons escape than that one innocent suffer.
+
+        - William Blackstone, Commentaries on the Laws of England, 
+        
+> It is better 100 guilty Persons should escape than that one innocent Person should suffer.
+
+        - Benjamin Franklin
+
+
+## Due Process of Law
+
+- Due process is guaranted by the Texas Constitution
+- Due process is guaranteed by the Fifth and Fourteenth Amendments of the US Constitution
+- Due process includes reasonable searches
+
+        - evidence from illegal searches must be excluded from evidence
+        
+- Due process at arrest:
+
+        - arrest requires a warrant or probable cause to believe the arrestee committed a crime
+        - individuals arrested must be informed of certain basic rights
+        
+- Due process and confessions
+
+        - confessions can not be coerced
+        - a suspect must have been informed of their rights under Mirana v. Arizona
+        
+        
+## Arraignment
+
+- Arraignment is an initial court appearance
+- The defendant is informed of the charges against them
+- If the defendant cannot afford an attorney one will be appointed
+- Bail, if any, is set at arraignment
+
+
+## Pre-trial
+
+- In felony cases, a grand jury will bring an indictment if there is sufficient evidence
+- In other cases, a writ of information will be used
+- After indictment, there will be a pre-trial hearing
+- Most cases end with a plea bargain 
+
+## Trial
+
+- Defendants are entitled to trial by jury in felony cases
+- Defendants may choose a bench trial
+- The prosecution must prove its case beyond a reasonable doubt
+- The defense may present evidence
+- The defendant is entitled to subpoena witnesses
+- Guilt or innocence
+
+        - If the jury finds the defendant not guilty, this is final
+        - If the jury finds the defendant guilty, the judge can set aside the verdict
+        
+- Sentence
+
+        - Juries may pass sentence in some crimes
+        - Judges may impose a lower sentence than the jury
+        
+
+## What is the purpose of the criminal justice system?
+
+- Protecting the people
+
+
+## What is the purpose of the criminal justice system?
+
+- *Protecting the people*
+- Punishment of the guilty as justice and to deter crime
+
+
+## What is the purpose of the criminal justice system?
+
+- *Protecting the people*
+- Punishment of the guilty as justice and to deter crime
+- Rehabilitating the convicted to return to society
+
+
+## Criminal justice reform
+
+- focus more on rehabilitation
+
+        - more humane
+        - more effective
+        
+- reduce or eliminate bail
+
+        - high bail makes poverty a crime
+        - innocent people may spend months jailed awaiting trial
+
+- government acts on our behalf, so if government acts unjustly they have done it in our name
+
+
+
+
+
+## Authorship and License
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>

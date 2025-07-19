@@ -1,0 +1,290 @@
+---
+title: |
+    | GOVT2306: Texas Government
+    | Lecture 6: Local Government
+author: "Instructor: Tom Hanna, Summer 2025"
+date: July 22, 2025
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.css]
+                logo: ../assets/logo.jpg
+                footer: "HCC GOVT2305, Summer 2025, Instructor: Tom Hanna <img src='../assets/logo.jpg' alt='Logo' style='height:30px;'>" 
+---
+
+# Agend and Announcements
+
+## Agenda Today
+
+- Lecture: Local Government
+- Discussion: Texas Special Legislature
+- Module 2 Quiz
+
+
+
+
+
+
+# Local Government
+
+
+## Introduction
+
+- Local governments provide services we use every day:
+        
+        - Provide law enforcement, fire departments, roads, health services, parks, libraries, and schools.
+        - Often provide utilities.
+        - Airports, public transportation systems, mosquito control programs, and community recreation centers.
+        - Interaction with government is, most of the time, interaction with local government.
+
+
+## Many Forms of Local Government
+
+- Varying forms, powers and responsibilites because of variation in:
+
+
+        - history
+        - geography
+        - political culture
+
+
+## Subdivisions of Local Government 
+
+- Counties
+
+        - basic geographic and administrative subdivisions of state government
+        - part of the state government
+        
+- Municipalities: Cities, towns, villages
+
+        - Often but not always smaller than counties
+        - independent corporations with charters
+        - charter powers granted by state government, but city is separate from state government
+        - Home rule cities have even more independence
+        
+- Special districts
+
+        - single purpose
+        - utility districts
+        - road districts
+
+
+## Subdivisions of Local Government 
+        
+- Regional governments
+
+        - cross jurisdictions
+        - joint efforts of municipalities and/or counties
+        - Metropolitan organizations
+
+Example: Houston Metro
+
+        - City of Houston
+        - Harris County 
+        - 14 smaller, surrounding cities known as Multi-Cities
+        - Nine member board 
+        - Appointed by Houston Mayor, Harris County, Multi-cities
+        
+        
+## County Government
+
+- County Commission
+
+        - regular meetings
+        - County Judge is the chair
+
+- County Judge
+
+        - Chief Executive of the County
+        - "Judge of the Commissioners Court"
+        - Not a judicial position
+        - Other states name: Presiding Commissioner
+        
+- Precinct Commissioners
+
+        - Four per county
+        - Staggered four year terms
+        - Precincts of roughly equal population
+        
+## County Officials: Administration 
+
+- County Clerk
+- County Attorney
+
+
+## County Clerk
+
+- Keeps records
+- Recorder of deeds
+- marriage licenses
+- births and deaths
+- Chief Elections Officer
+
+
+
+## County Attorney
+
+- Legal advisor to county commission
+- handles civil matters for the county including civil enforcement actions
+- handles some misdemeanor prosecutions
+- Represents Texas Department of Family and Protective Services in child abuse and neglect cases
+- handles mental health commitment proceedings
+
+
+## County Officials: Finance
+
+- Tax Assessor-Collector
+- Treasurer
+- Auditor
+
+
+## Tax Assessor-Collector
+
+- Sets valuations on properties
+- Calculates and sets county property tax rates
+- Collects taxes for county - sometimes for other districts like schools, cities, etc.
+- Issues car and boat licenses and registration
+- Processes car and boat titles
+- Collects various fees
+- Registers voters
+
+
+## Treasurer
+
+- Keeps the counties financial records 
+- handles county bank accounts
+- Receives and deposits funds
+- Disburses funds, payroll
+- Invests county money
+- conducts some audits if there is no auditor
+
+
+## Auditor
+
+- Appointed by the district judge(s).
+- Prepares and administers accounting records for all county funds.
+- Audits the records and accounts of the various county departments.
+- Verifies the validity and legality of all county disbursements.
+- Forecasts financial data for budgetary formulation purposes.
+- Serves as budget officer in counties with more than 225,000 residents. (Counties with more than 125,000 residents may opt for an appointed budget officer.)
+
+
+
+
+## County Officials: Law enforcement and courts
+
+- Sheriff
+- Justice of the Peace (Discussed in Judicial)
+- Constables 
+- District Clerk
+- District Attorney
+
+
+## Sheriff
+
+        - elected chief law enforcement officer
+        - Manages and operates the county jail.
+        - Provides security for the courts.
+        - Serves warrants and civil papers.
+        - Regulates bail bondsmen in counties with no bail bond board.
+        - May serve as the Tax Assessor-Collector in counties with fewer than 8,000 residents.
+
+
+## Constables 
+
+- Elected officials
+- Precinct level (JOP precincts)
+        
+        - Enforcing criminal and traffic laws
+        - Conducting criminal investigations
+        - Serving warrants, civil process, and precepts
+        - Being present at Justice of the Peace hearings
+        - Acting as bailiff
+        - Subpoenaing witnesses
+        - Executing judgments
+
+
+
+- District Clerk
+
+        - Clerk of the District Court - maintains all court records
+        - collects filing fees
+        - handles funds held in litigation and money awarded to minors
+        - Coordinates the jury panel selection process.
+        - May process passport applications.
+        - Manages court registry funds.
+        
+        
+## District Attorney
+
+        - Represents the state in prosecuting felony criminal cases.
+        - Works with law enforcement officers in the investigation of criminal cases.
+        - Presents cases to the grand jury.
+        - Represents victims of violence in protective orders and represents the state in removing children from abusive households.
+
+
+## Overlap and other officials
+
+Some counties have overlap, especially smaller ones
+
+        - Some have only one attorney who acts as County and District Attorney
+        - In some the Sheriff is the Tax Assessor-Collector
+        - In some the Tax Assessor-Collector runs elections
+        - Some have no auditor
+        
+Some counties have other officials such as
+
+        - An Elections Adminstrator who handles elections instead of the County Clerk
+        
+        
+## City Government Types
+
+- Mayor Council
+
+        - Strong Mayor
+        - Weak Mayor
+        
+- Council-manager
+
+        - Elected City Council
+        - Mayor presides over the Council
+        - City Manager runs the city government day
+        
+- Commission 
+
+        - uncommon
+        - started in Galveston
+        - no longer in use in Texas
+
+
+## Strong and Weak Mayor systems
+
+- Strong Mayor (Houston has this)
+
+        - Mayor is directly elected
+        - Mayor is the chief executive
+        - Mayor can veto council actions      
+        - Mayor appoints department heads
+        - Mayor sets the Council agenda
+        - In Houston, Council mamembers can not add items to the Council agenda at all without Mayor's approval
+
+
+- Weak mayor
+
+        - Mayor is directly elected
+        - Mayor presides over council meetings
+        - Mayor cannot directly appoint or remove department heads
+        - Mayor lacks veto power
+        
+        
+## Authorship and License
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
+

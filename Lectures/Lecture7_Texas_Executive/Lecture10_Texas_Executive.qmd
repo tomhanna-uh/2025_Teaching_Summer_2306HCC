@@ -1,0 +1,153 @@
+---
+title: |
+    | GOVT2306: Texas Government
+    | Lecture 10: The Texas Executive Branch
+author: "Instructor: Tom Hanna, Spring 2025"
+date: January 2025
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.css]
+                logo: ../assets/logo.jpg
+                footer: "HCC GOVT2306, Spring 2025, Instructor: Tom Hanna>" 
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(kableExtra)
+```
+
+
+# Agenda and Announcements
+
+## Agenda
+
+- Today: The Texas Executive
+
+- Next class: Public Policy in Texas
+
+        - Homework start (50% by class time): Chapter 12 Public Policy in Texas - Begin by March 19
+
+## Announcemnts
+
+-
+
+
+## The Executive Branch US and Texas: Constitutional Basis
+
+- US Constitution Article II
+
+        - establishes the presidency
+        - lists presidential powers
+        - structure of presidency - unitary
+
+        
+- Texas Constitution Article IV
+
+        - establishes the executive
+        - lists executive powers
+        - structure of executive - plural
+
+## Texas Constitution vs US Constitution
+
+- US President
+
+        - Elected Chief Executive
+        - President and Vice-President only elected executive branch officials
+        - Since 12th Amendment, President and Vice-President elected together (as a pair, from one party)
+        
+- Texas Executive: 6 elected executive officials
+
+        - All elected on their own right possibly different parties
+        
+## The Texas Plural Executive
+
+- Governor - Greg Abbott
+ <p id = "blink_text">Know the top 3</p>
+- Lieutenant Governor - ??
+
+## The Texas Plural Executive
+
+- Governor - Greg Abbott
+- Lieutenant Governor - Dan Patrick
+ <p id = "blink_text">Know the top 3</p>
+
+## The Texas Plural Executive
+
+- Governor - Greg Abbott
+- Lieutenant Governor - Dan Patrick
+- Attorney General - ??
+
+## The Texas Plural Executive
+
+- Governor - Greg Abbott
+- Lieutenant Governor - Dan Patrick
+- Attorney General - Ken Paxton
+ <p id = "blink_text">Know the top 3</p>
+
+ 
+## The Texas Plural Executive
+
+- Governor - Greg Abbott
+- Lieutenant Governor - Dan Patrick
+- Attorney General - Ken Paxton
+- Comptroller of Public Accounts - Glenn Hegar
+- Commissioner of the General Land Office - Dawn Buckingham, M.D.
+- Commissioner of Agriculture - Sid Miller
+
+## The Texas Plural Executive: Non-Article IV Officials
+
+- Railroad Commission - Christi Craddick (chair), Ryan Sitton, Wayne Christian
+
+
+## The Texas Plural Executive: Non-Article IV Officials
+
+- Railroad Commission - Christi Craddick (chair), Ryan Sitton, Wayne Christian
+
+<p id = "blink_text">Christi Craddick</p>
+
+- Regulates the oil and gas industry in Texas, which
+- would be the fourth largest COUNTRY in the world for oil and gas production
+
+        - The United States, Russia, Saudi Arabia, Texas
+        
+- No authority over railroads
+
+
+## The Texas Plural Executive: Non-Article IV Officials
+
+- Railroad Commission - Christi Craddick (chair), Ryan Sitton, Wayne Christian
+- State Board of Education - 15 members
+
+        
+## The Texas Plural Executive
+
+- Governor - Greg Abbott
+- Lieutenant Governor - Dan Patrick
+- Attorney General - Ken Paxton
+ 
+ <p id = "blink_text">Know the top 3</p>
+ 
+- Comptroller of Public Accounts - Glenn Hegar
+- Commissioner of the General Land Office - Dawn Buckingham, M.D.
+- Commissioner of Agriculture - Sid Miller
+
+
+
+
+
+
+
+
+
+## Authorship and License
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>

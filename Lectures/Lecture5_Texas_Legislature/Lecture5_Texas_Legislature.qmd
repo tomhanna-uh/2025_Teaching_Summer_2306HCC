@@ -1,0 +1,179 @@
+---
+title: |
+    | GOVT2306: Texas Government
+    | Lecture 5: Texas Legislature
+author: "Instructor: Tom Hanna, Summer 2025"
+date: July 21, 2025
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.css]
+                logo: ../assets/logo.jpg
+                footer: "HCC GOVT2306, Summer 2025, Instructor: Tom Hanna>" 
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(kableExtra)
+```
+
+
+# Agenda and Announcements
+
+## Agenda
+
+- Today (Monday, July 21)
+
+        - Lecture: Texas Legislature
+        - Activity/Discussion: State Constitutional Priorities
+
+- Tomorrow (Tuesday, July 22)
+
+        - Lecture: Local Government
+        - Activity/Discussion: Special Legislative Session
+        - Module 2 Quiz
+
+## Due Tuesday
+
+- Journals
+
+        - Chapter 4: Voting and Elections
+        - Chapter 5: Political Parties
+        - Chapter 6: Interest Groups
+        - Chapter 7: The Legislature
+        
+- Module 2 Study Guide
+
+
+
+# The Texas Legislature {background-color="red" background-image="texas_state_capitol.jpg" background-size="500px" background-repeat="repeat"}
+
+![State Capitol in Austin](texas_state_capitol.jpg)
+
+ 
+## The Texas Legislature: Constitutional Basis
+
+
+- US Constitution Article I
+
+        - establishes the Congress
+        - lists Congressional powers
+        - structure of Congress - bicameral
+        - Congress not subject to executive
+        
+- Texas Constitution Article III
+        
+        - establishes the legislature
+        - lists legislative powers
+        - structure of legislature - bicameral
+        - limits length of sessions
+        - limits salaries of legislators
+        - legislature is subject to comptroller of public accounts
+
+## Why a legislature?
+
+- What is a legislatures primary responsibility?
+
+- Why do we choose representatives to fill this role?
+
+        - Why does representation matter?
+        - Why a large legislature instead of a smaller council?
+        - Why two chambers: House and Senate?
+        
+- What is important in a representative?
+
+        - What are the most important qualities?
+        - What are the least important qualities?
+        
+
+## Texas's Legislature Terms and Sessions
+
+
+```{r}
+
+comparison_data <- data.frame(
+  Description = c("Term Length - House", "Term Length - Senate", "Term Limits", "Legislature Type", "Session Frequency", "Session Length"),
+  Texas = c("2 years", "4 years", "None", "Part-time (Citizen)", "Biennial", "140 days every two years"),
+  `U.S. Congress` = c("2 years", "6 years", "None", "Full-time", "Almost always in session", "Approx. 191 days a year")
+)
+
+kable(comparison_data, "html", align = "lccc") %>% # align argument added
+  kable_styling(full_width = F) %>%
+  column_spec(1, bold = T) %>%
+  column_spec(2:3, width = "4cm") #Adjust column widths as needed
+
+
+```
+
+## Salaries, Compensation, and Staff
+
+
+```{r}
+
+
+
+comparison_data2 <- data.frame(
+  Description = c("Base salary", "Per diem","Other reimbursement", "Number of members","Number of staffers", "Staff Location"),
+  Texas = c("$2,700", "$224", "--", "181","Over 2,000", "Austin and home district"),
+  `U.S. Congress` = c("$174,000", "proposed", "Travel to home district", "535", "~6,535", "Washington, DC and home district")
+)
+
+kable(comparison_data2, "html", align = "lccc") %>% # align argument added
+  kable_styling(full_width = F) %>%
+  column_spec(1, bold = T) %>%
+  column_spec(2:3, width = "4cm") #Adjust column widths as needed
+
+```
+
+## Senate Qualifications{.smaller}
+
+
+```{r}
+
+
+
+comparison_data3 <- data.frame(
+  Description = c("Senator","Senator Residency"),
+  Texas = c("U.S. citizen, a qualified voter, at least 26-years-old.", "In Texas for the previous five years, and in the district for one year before being elected."),
+  `U.S. Senate` = c("at least 30 years old, a United States citizen for at least nine years", " a resident of the state they represent at the time of election")
+)
+
+kable(comparison_data3, "html", align = "lccc") %>% # align argument added
+  kable_styling(full_width = F) %>%
+  column_spec(1, bold = T) %>%
+  column_spec(2:3, width = "4cm") #Adjust column widths as needed
+
+```
+ 
+## House Qualifications{.smaller}
+
+```{r}
+
+
+
+comparison_data4 <- data.frame(
+  Description = c("House Member", "House Member Residency"),
+  Texas = c("U.S. citizen, a qualified voter of the state, and at least 21-years-old.", "In Texas for the two previous years, and in the district for one year before being elected."),
+  `U.S. House of Representatives` = c("at least 25 years old, a United States citizen for at least seven years.", "an inhabitant of the state he or she represents.")
+)
+
+kable(comparison_data4, "html", align = "lccc") %>% # align argument added
+  kable_styling(full_width = F) %>%
+  column_spec(1, bold = T) %>%
+  column_spec(2:3, width = "4cm") #Adjust column widths as needed
+
+```
+
+
+
+## Authorship and License
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>

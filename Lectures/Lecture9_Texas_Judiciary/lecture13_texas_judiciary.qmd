@@ -1,0 +1,231 @@
+---
+title: |
+    | GOVT2306: Texas Government
+    | Lecture 13: Texas Judiciary
+author: "Instructor: Tom Hanna, Spring 2025"
+date: January 2025
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [default,../assets/custom.css]
+                logo: ../assets/logo.jpg
+                footer: "HCC GOVT2306, Spring 2025, Instructor: Tom Hanna>" 
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(kableExtra)
+```
+
+
+# Agenda and Announcements
+
+## Agenda
+
+- Today: Texas Judiciary
+
+- Next class: Criminal Policy, Due Process
+
+        - Begin homework (50% done by class time): Chapter 10 Law, Due Process, and Criminal Justice Policy - Begin by April 16
+
+## Announcemnts
+
+-
+
+
+# Texas Judiciary
+
+## Texas Constitution vs US Constitution
+
+- US Constitution Article III
+
+        - establishes the judiciary
+        - lists judicial powers
+        - structure of judiciary - unitary
+        - One Supreme Court with inferior courts as established by Congress
+        - Judges appointed and serve for life
+        
+- Texas Constitution Article V
+
+        - establishes the judiciary
+        - lists judicial powers
+        - structure of judiciary - plural
+        - Two top courts
+        - lower courts defined in Constitution
+        - Judges elected and serve for fixed terms
+        
+
+## General Court Structure
+
+- By type of case
+
+        - Criminal 
+        - Civil
+
+- By level of authority
+
+        - Trial court
+        - Appellate court
+        - Supreme Court and Court of Criminal Appeals
+        
+        
+        
+## Civil vs. Criminal Cases
+
+::: {.r-fit-text}
+```{r}
+
+comparison_data <- data.frame(
+  Description = c("Type of case","Parties","Initial document", "Burden of proof", "Determines", "Result"),
+  Civil = c("Individual or property rights", "Plaintiff or petitioner: Often a private party (may be government)", "Petition", "Preponderance of the evidence", "Responsibility/Liability","relief or compensation"),
+  Criminal = c("Proper behavior under penal law", "Prosecutor representing the people; defendant", "Charges: Indictment or information", "Beyond a reasonable doubt", "Guilt or innocence", "Punishment including fines, jail, or prison")
+)
+
+kable(comparison_data, "html", align = "lccc") %>% # align argument added
+  kable_styling(full_width = F) %>%
+  column_spec(1, bold = T) %>%
+  column_spec(2:3, width = "4cm") #Adjust column widths as needed
+
+
+```
+:::
+
+## Levels of Courts in Texas
+
+Municipal
+
+- Trial court
+- Incorporated cities and towns
+- May not be on record, so appeals may involve a new trial
+- Larger city courts are courts of record
+- City charters determine qualification and selection of judges
+        
+## Levels of Courts in Texas
+
+Justice of the Peace Courts
+
+- Trial court
+- 1 to 8 JOP Courts in each county
+- Criminal and Civil jurisdiction
+- No specific qualifications for Justices of the Peace
+
+## Levels of Courts in Texas
+
+County Courts
+
+- Trial court
+- One per county required by Constitution
+- Additional courts established by stature
+- Criminal and civil matters
+        
+## Levels of Courts in Texas
+
+District Courts
+
+- Trial court
+- 488 courts
+- one elected judge with 4-year term
+- Civil matters
+- Felony criminal cases
+
+## Levels of Courts in Texas: Appellate
+
+Courts of Appeals
+
+- 14 Courts of Appeal
+- Civil and Criminal Cases
+- Appeals judges elected 
+- 3 to 13 judges per court
+
+        - Texarkana, El Paso, Waco, Eastland, and Tyler: 3
+        - Amarillo and Beaumont: 4
+        - Austin and Corpus Christi-Edinburg: 6
+        - Fort Worth and San Antonio: 7
+        - Houston-1st and Houston-14th: 9
+        - Dallas: 13
+
+
+## Levels of Courts in Texas: Appellate {background-color="red" background-image="appeals_courts.png" background-size="800px"}
+
+
+
+
+## Bifurcated Appeals
+
+- Texas Court of Criminal Appeals
+- Supreme Court of Texas
+
+
+## Texas Court of Criminal Appeals
+
+- Highest court of appeals for criminal matters
+- Exclusive jurisdiction over automatic appeals of death penalty cases
+- Judges elected in statewide elections
+- Presiding Judge and eight Judges
+
+
+## Supreme Court of Texas
+
+- Highest appeal court for civil cases
+- Highest appeal court for juvenile cases
+- Establishes rules for lower courts
+- Establishes rules for the state bar
+- Nine justices elected in statewide elections
+
+## Juries{background-color="red"  background-image="ham_sandwich.jpg" background-size="700px"}
+
+
+- Petit juries
+        
+        - Trial juries are called "petit juries"
+        - 6 members in lower courts, 12 in district courts
+        - selected from registered voters and those with driver's licenses or state id cards
+        
+- Grand juries
+
+        - Grand juries are investigative juries
+        - run by District Attorneys
+        - charged with determining if there is enough evidence to bring charges
+        - charges called "indictments" 
+        - indictment required in felony cases
+        - May also return a "no bill" if there is not sufficient evidence to charge
+        - 12 jurors
+
+
+
+## Current events
+
+"Texas Lawmakers’ Unusual Attempt to Halt the Execution of a Possibly Innocent Man"^[https://statecourtreport.org/our-work/analysis-opinion/texas-lawmakers-unusual-attempt-halt-execution-possibly-innocent-man]
+
+
+- Case involved both court systems, the legislature and the Governor's office 
+- All appeals had already been denied in the criminal system and at the US Supreme Court
+- The Texas Board of Pardons and Paroles had rejected a pardon
+
+
+
+
+## Current events
+
+
+- Governor Abbott had declined to issue a 30-day reprieve, the only action he could legally take
+- The Criminal Jurisprudence Committee of the Texas House of Representatives subpoenaed the defendant to appear the day after the schedule execution
+- Texas Supreme Court stayed the execution
+- November 15, 2024 Texas Supreme Court unanimously ruled that the House subpoena violated separation of powers
+
+
+
+
+
+
+## Authorship and License
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
