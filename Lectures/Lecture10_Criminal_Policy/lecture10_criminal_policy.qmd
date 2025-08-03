@@ -1,16 +1,16 @@
 ---
 title: |
     | GOVT2306: Texas Government
-    | Lecture 14: Crime Policy
-author: "Instructor: Tom Hanna, Spring 2025"
-date: January 2025
+    | Lecture 10: Crime Policy
+author: "Instructor: Tom Hanna, Summer 2025"
+date: August 2025
 format: 
         revealjs:
                 self-contained: true
                 transition: convex
                 theme: [default,../assets/custom.css]
                 logo: ../assets/logo.jpg
-                footer: "HCC GOVT2306, Spring 2025, Instructor: Tom Hanna>" 
+                footer: "HCC GOVT2306, Summer 2025, Instructor: Tom Hanna>" 
 ---
 
 
@@ -22,24 +22,23 @@ library(kableExtra)
 
 # Agenda and Announcements
 
-## Agenda
+## Agenda Today
 
-- Today: Crime Policy
+- Crime Policy
 
         - Criminal Procedure
         - Due Process
         - Punishment and Rehabilitation
         - Criminal Justice Reform
 
-- Remaining classes: topic discussion and short writing
+- Module 4 Quiz
 
-        - Check Canvas for current events news articles
-        - Final exam review
+- Hand in all written work
+
+- Final Exam Tomorrow 8 AM
+
         
 
-## Announcemnts
-
--
 
 
 # Criminal procedure
@@ -64,7 +63,7 @@ library(kableExtra)
 ## Elements of crime
 
 - Set by statute
-- Prosecution must allege and prove all elements of the crim
+- Prosecution must allege and prove all elements of the crime
 - Many crimes require *mens rea,* literally "guilty mind" or criminal intent
 - Crimes that do not require *mens rea* are strict liability crimes
 
@@ -79,8 +78,9 @@ The major assumption of US and Texas criminal law is that protection of innocent
 ## Due Process
 
 ::: {.custom-style style="font-size: 80px;"}
-Thinking about ethical considerations, specifically errors of omission or commission, which is worse - falsely imprison someone or mistakenly release a guilty person?
+Which is worse - falsely imprison someone or mistakenly release a guilty person?
 :::
+
 
 ## Due Process
 
@@ -91,6 +91,8 @@ Thinking about ethical considerations, specifically errors of omission or commis
 > It is better 100 guilty Persons should escape than that one innocent Person should suffer.
 
         - Benjamin Franklin
+        
+        
 
 
 ## Due Process of Law
@@ -100,6 +102,9 @@ Thinking about ethical considerations, specifically errors of omission or commis
 - Due process includes reasonable searches
 
         - evidence from illegal searches must be excluded from evidence
+        
+        
+## Due Process of Law
         
 - Due process at arrest:
 
@@ -127,6 +132,7 @@ Thinking about ethical considerations, specifically errors of omission or commis
 - After indictment, there will be a pre-trial hearing
 - Most cases end with a plea bargain 
 
+
 ## Trial
 
 - Defendants are entitled to trial by jury in felony cases
@@ -139,21 +145,58 @@ Thinking about ethical considerations, specifically errors of omission or commis
         - If the jury finds the defendant not guilty, this is final
         - If the jury finds the defendant guilty, the judge can set aside the verdict
         
+        
+## Post Trial (Post conviction)
+        
 - Sentence
 
         - Juries may pass sentence in some crimes
         - Judges may impose a lower sentence than the jury
+        - Often judge will receive a pre-sentence report
+        
+- Appeal
+
+        - Defendants may appeal a conviction
+        - Appeals are based on legal errors, not factual disputes
+        - Appeals are heard by appellate courts, not trial courts (limited exceptions)
+        
         
 
 ## What is the purpose of the criminal justice system?
 
 - Protecting the people
 
+        - all the people
+        - victims
+        - the falsely accused
+
+
+## Protecting the convicted
+
+- Why would we protect the convicted?
+
+- For example, the prohibition on cruel and unusual punishment? 
+
+- Prohibition on excessive fines?
+
+
+
+## Protecting the convicted
+
+- We are protecting ourselves
+
+- government acts on our behalf, so if government acts unjustly they have done it in our name
+
+- a civilized society is one that uses the lowest possible level of organized violence (Krauthammer, *Things That Matter*)
+
+
+
 
 ## What is the purpose of the criminal justice system?
 
 - *Protecting the people*
 - Punishment of the guilty as justice and to deter crime
+
 
 
 ## What is the purpose of the criminal justice system?
@@ -170,12 +213,14 @@ Thinking about ethical considerations, specifically errors of omission or commis
         - more humane
         - more effective
         
+        
 - reduce or eliminate bail
 
         - high bail makes poverty a crime
         - innocent people may spend months jailed awaiting trial
+        
 
-- government acts on our behalf, so if government acts unjustly they have done it in our name
+
 
 
 

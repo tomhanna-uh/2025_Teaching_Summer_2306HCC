@@ -1,8 +1,8 @@
 ---
 title: |
     | GOVT2306: Texas Government
-    | Lecture 13: Texas Judiciary
-author: "Instructor: Tom Hanna, Spring 2025"
+    | Lecture 9: Texas Judiciary
+author: "Instructor: Tom Hanna, Summer 2025"
 date: January 2025
 format: 
         revealjs:
@@ -10,7 +10,7 @@ format:
                 transition: convex
                 theme: [default,../assets/custom.css]
                 logo: ../assets/logo.jpg
-                footer: "HCC GOVT2306, Spring 2025, Instructor: Tom Hanna>" 
+                footer: "HCC GOVT2306, Summer 2025, Instructor: Tom Hanna>" 
 ---
 
 
@@ -26,13 +26,14 @@ library(kableExtra)
 
 - Today: Texas Judiciary
 
-- Next class: Criminal Policy, Due Process
+- Next class
 
-        - Begin homework (50% done by class time): Chapter 10 Law, Due Process, and Criminal Justice Policy - Begin by April 16
+        - Criminal Policy, Due Process
+        - Module 4 Quiz
+        - Turn in all written work
+        
+- Final Exam: Wednesday 8 AM
 
-## Announcemnts
-
--
 
 
 # Texas Judiciary
